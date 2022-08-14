@@ -1,0 +1,16 @@
+com\mycompany\reto5\vista\frmPrincipal$3.class
+com\mycompany\reto5\controlador\ControladorMain.class
+com\mycompany\reto5\vista\frmPrincipal$2.class
+com\mycompany\reto5\modelo\DAO\SegundaConsulta.class
+com\mycompany\reto5\modelo\DAO\PrimeraConsulta.class
+com\mycompany\reto5\vista\frmPrincipal$1.class
+com\mycompany\reto5\vista\frmPrimerInforme.class
+com\mycompany\reto5\vista\frmSegundoInforme.class
+com\mycompany\reto5\modelo\VO\Cliente.class
+com\mycompany\reto5\modelo\DAO\Conexion.class
+com\mycompany\reto5\vista\frmPrincipal.class
+com\mycompany\reto5\modelo\VO\Lider.class
+com\mycompany\reto5\vista\frmTercerInforme.class
+com\mycompany\reto5\modelo\DAO\TerceraConsulta.class
+com\mycompany\reto5\modelo\VO\Proyecto.class
+.netbeans_automatic_build
